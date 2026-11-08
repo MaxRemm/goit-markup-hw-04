@@ -61,16 +61,18 @@
 .list-icons {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 24px;
+  margin: 0;
+  padding: 0;
 }
 
 .list-icons {
-  margin-left: 16px;
-  margin-bottom: 32px;
+  margin-top: 8px;
 }
 
 .social-link:hover,
-.social-link:hover {
+.social-link:focus {
   background-color: #404bbf;
 }
 

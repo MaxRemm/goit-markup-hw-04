@@ -58,3 +58,9 @@
 .footer-icon:focus {
   background-color: #31d0aa;
 }
+
+.social-text {
+  color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
